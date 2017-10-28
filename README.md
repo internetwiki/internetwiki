@@ -1,2 +1,0 @@
-# internet-wiki
-internet wiki
